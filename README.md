@@ -8,7 +8,6 @@ This repository hosts a comprehensive solution for predicting stock prices using
 - [Overview](#overview)
 - [Key Features](#key-features)
 - [Dataset](#dataset)
-- [Usage](#usage)
 - [Explore Notebooks](#explore-notebooks)
 - [Trained Models](#trained-models)
 - [Contribution](#contribution)
@@ -28,6 +27,13 @@ This project aims to provide a robust and flexible platform for predicting stock
 
 The project utilizes historical stock price data using yahoo finance api , available in the `data` directory. Feel free to use other dataset or replace it with your preferred stock data source.
 ## explore-notebooks
-Dive into the notebooks directory to find Jupyter notebooks  for in-depth analysis, visualizations, and experimentation.
+Dive into the notebooks directory to find Jupyter notebooks https://github.com/Krupa3006/Timeseries-forecasting-stock-price-prediction-.git  for in-depth analysis, visualizations, and experimentation.
 
+## trained-models
+Access pre-trained models in the models directory for direct use or further refinement.
+
+##Contribution
+Contributions and feedback are welcome! Whether you want to report issues, suggest improvements, or submit new features, please feel free to contact me @123krupajoshi@gmail.com.
+
+Happy & keep learning ......
 
