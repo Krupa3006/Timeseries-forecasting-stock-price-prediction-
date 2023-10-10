@@ -32,7 +32,7 @@ Dive into the notebooks directory to find Jupyter notebooks https://github.com/K
 ## trained-models
 Access pre-trained models in the models directory for direct use or further refinement.
 
-##Contribution
+## Contribution
 Contributions and feedback are welcome! Whether you want to report issues, suggest improvements, or submit new features, please feel free to contact me @123krupajoshi@gmail.com.
 
 Happy & keep learning ......
