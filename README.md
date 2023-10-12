@@ -1,4 +1,6 @@
-# Timeseries-forecasting-stock-price-prediction-
+# Timeseries-forecasting-stock-price-movement-prediction-
+![19 -Investment_strategies_for_beginners-1](https://github.com/Krupa3006/Timeseries-forecasting-stock-price-prediction-/assets/123809531/b451cfb0-02c4-451c-8053-d9833d08a07f)
+
 Welcome to the Time Series Forecasting project for predicting stock prices! This repository contains a comprehensive solution for analyzing historical stock data and forecasting future stock prices using various time series forecasting techniques.
 
 This repository hosts a comprehensive solution for predicting stock prices using advanced time series forecasting techniques. Leveraging historical stock data, our project employs machine learning models to analyze patterns and trends, providing insights into potential future price movements.
